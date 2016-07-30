@@ -1,0 +1,324 @@
+RegionCode,Region,Industry,Companies,Employee,Buy(K),Rent,Population(K)
+AUK,Auckland,"Agriculture, Forestry and Fishing",4419,5790,975,515,1416
+AUK,Auckland,Mining,102,340,975,515,1416
+AUK,Auckland,Manufacturing,7902,72460,975,515,1416
+AUK,Auckland,"Electricity, Gas, Water and Waste Services",363,4010,975,515,1416
+AUK,Auckland,Construction,18264,40900,975,515,1416
+AUK,Auckland,Wholesale Trade,9735,55420,975,515,1416
+AUK,Auckland,Retail Trade,13239,66270,975,515,1416
+AUK,Auckland,Accommodation and Food Services,6675,47780,975,515,1416
+AUK,Auckland,"Transport, Postal and Warehousing",6093,34190,975,515,1416
+AUK,Auckland,Information Media and Telecommunications,2811,19340,975,515,1416
+AUK,Auckland,Financial and Insurance Services,14934,28890,975,515,1416
+AUK,Auckland,"Rental, Hiring and Real Estate Services",36918,11790,975,515,1416
+AUK,Auckland,"Professional, Scientific and Technical Services",25779,73740,975,515,1416
+AUK,Auckland,Administrative and Support Services,7521,41630,975,515,1416
+AUK,Auckland,Public Administration and Safety,858,32630,975,515,1416
+AUK,Auckland,Education and Training,3069,58230,975,515,1416
+AUK,Auckland,Health Care and Social Assistance,7437,67110,975,515,1416
+AUK,Auckland,Arts and Recreation Services,3342,11240,975,515,1416
+AUK,Auckland,Other Services,7803,22850,975,515,1416
+BOP,Bay of Plenty,"Agriculture, Forestry and Fishing",6540,11270,363,279,271
+BOP,Bay of Plenty,Mining,33,64,363,279,271
+BOP,Bay of Plenty,Manufacturing,1500,12620,363,279,271
+BOP,Bay of Plenty,"Electricity, Gas, Water and Waste Services",105,1219,363,279,271
+BOP,Bay of Plenty,Construction,3666,8250,363,279,271
+BOP,Bay of Plenty,Wholesale Trade,1104,4625,363,279,271
+BOP,Bay of Plenty,Retail Trade,2169,12310,363,279,271
+BOP,Bay of Plenty,Accommodation and Food Services,1260,8520,363,279,271
+BOP,Bay of Plenty,"Transport, Postal and Warehousing",1023,5665,363,279,271
+BOP,Bay of Plenty,Information Media and Telecommunications,162,770,363,279,271
+BOP,Bay of Plenty,Financial and Insurance Services,2250,1675,363,279,271
+BOP,Bay of Plenty,"Rental, Hiring and Real Estate Services",6894,1527,363,279,271
+BOP,Bay of Plenty,"Professional, Scientific and Technical Services",2712,5678,363,279,271
+BOP,Bay of Plenty,Administrative and Support Services,1020,6320,363,279,271
+BOP,Bay of Plenty,Public Administration and Safety,252,4550,363,279,271
+BOP,Bay of Plenty,Education and Training,735,10340,363,279,271
+BOP,Bay of Plenty,Health Care and Social Assistance,1497,15160,363,279,271
+BOP,Bay of Plenty,Arts and Recreation Services,552,2355,363,279,271
+BOP,Bay of Plenty,Other Services,1557,4265,363,279,271
+CAN,Canterbury,"Agriculture, Forestry and Fishing",10479,14660,384,332,538
+CAN,Canterbury,Mining,96,400,384,332,538
+CAN,Canterbury,Manufacturing,3147,34850,384,332,538
+CAN,Canterbury,"Electricity, Gas, Water and Waste Services",213,1975,384,332,538
+CAN,Canterbury,Construction,8523,31640,384,332,538
+CAN,Canterbury,Wholesale Trade,2850,14285,384,332,538
+CAN,Canterbury,Retail Trade,4251,28660,384,332,538
+CAN,Canterbury,Accommodation and Food Services,2616,18305,384,332,538
+CAN,Canterbury,"Transport, Postal and Warehousing",2049,12905,384,332,538
+CAN,Canterbury,Information Media and Telecommunications,369,3578,384,332,538
+CAN,Canterbury,Financial and Insurance Services,4248,4941,384,332,538
+CAN,Canterbury,"Rental, Hiring and Real Estate Services",13707,4502,384,332,538
+CAN,Canterbury,"Professional, Scientific and Technical Services",5976,20532,384,332,538
+CAN,Canterbury,Administrative and Support Services,2133,13947,384,332,538
+CAN,Canterbury,Public Administration and Safety,441,12035,384,332,538
+CAN,Canterbury,Education and Training,1206,21390,384,332,538
+CAN,Canterbury,Health Care and Social Assistance,2700,30590,384,332,538
+CAN,Canterbury,Arts and Recreation Services,1278,4900,384,332,538
+CAN,Canterbury,Other Services,3003,9000,384,332,538
+GIS,Gisborne,"Agriculture, Forestry and Fishing",1449,4760,237,277,44
+GIS,Gisborne,Mining,3,18,237,277,44
+GIS,Gisborne,Manufacturing,147,2100,237,277,44
+GIS,Gisborne,"Electricity, Gas, Water and Waste Services",18,55,237,277,44
+GIS,Gisborne,Construction,411,1150,237,277,44
+GIS,Gisborne,Wholesale Trade,117,470,237,277,44
+GIS,Gisborne,Retail Trade,273,1680,237,277,44
+GIS,Gisborne,Accommodation and Food Services,177,940,237,277,44
+GIS,Gisborne,"Transport, Postal and Warehousing",144,670,237,277,44
+GIS,Gisborne,Information Media and Telecommunications,18,260,237,277,44
+GIS,Gisborne,Financial and Insurance Services,243,170,237,277,44
+GIS,Gisborne,"Rental, Hiring and Real Estate Services",945,240,237,277,44
+GIS,Gisborne,"Professional, Scientific and Technical Services",240,1030,237,277,44
+GIS,Gisborne,Administrative and Support Services,96,1020,237,277,44
+GIS,Gisborne,Public Administration and Safety,66,710,237,277,44
+GIS,Gisborne,Education and Training,159,2100,237,277,44
+GIS,Gisborne,Health Care and Social Assistance,189,2250,237,277,44
+GIS,Gisborne,Arts and Recreation Services,81,310,237,277,44
+GIS,Gisborne,Other Services,213,570,237,277,44
+HKB,Hawke's Bay,"Agriculture, Forestry and Fishing",3492,12310,275,266,151
+HKB,Hawke's Bay,Mining,9,20,275,266,151
+HKB,Hawke's Bay,Manufacturing,849,10060,275,266,151
+HKB,Hawke's Bay,"Electricity, Gas, Water and Waste Services",60,350,275,266,151
+HKB,Hawke's Bay,Construction,1488,4050,275,266,151
+HKB,Hawke's Bay,Wholesale Trade,567,2485,275,266,151
+HKB,Hawke's Bay,Retail Trade,1086,6590,275,266,151
+HKB,Hawke's Bay,Accommodation and Food Services,657,4150,275,266,151
+HKB,Hawke's Bay,"Transport, Postal and Warehousing",543,2525,275,266,151
+HKB,Hawke's Bay,Information Media and Telecommunications,84,490,275,266,151
+HKB,Hawke's Bay,Financial and Insurance Services,1293,1035,275,266,151
+HKB,Hawke's Bay,"Rental, Hiring and Real Estate Services",3885,930,275,266,151
+HKB,Hawke's Bay,"Professional, Scientific and Technical Services",1299,2855,275,266,151
+HKB,Hawke's Bay,Administrative and Support Services,465,4570,275,266,151
+HKB,Hawke's Bay,Public Administration and Safety,174,2990,275,266,151
+HKB,Hawke's Bay,Education and Training,450,5850,275,266,151
+HKB,Hawke's Bay,Health Care and Social Assistance,732,8490,275,266,151
+HKB,Hawke's Bay,Arts and Recreation Services,312,1050,275,266,151
+HKB,Hawke's Bay,Other Services,765,2050,275,266,151
+MBH,Marlborough,"Agriculture, Forestry and Fishing",2121,3990,386,300,43
+MBH,Marlborough,Mining,9,50,386,300,43
+MBH,Marlborough,Manufacturing,420,3310,386,300,43
+MBH,Marlborough,"Electricity, Gas, Water and Waste Services",36,170,386,300,43
+MBH,Marlborough,Construction,573,1350,386,300,43
+MBH,Marlborough,Wholesale Trade,168,630,386,300,43
+MBH,Marlborough,Retail Trade,309,2370,386,300,43
+MBH,Marlborough,Accommodation and Food Services,312,1750,386,300,43
+MBH,Marlborough,"Transport, Postal and Warehousing",219,870,386,300,43
+MBH,Marlborough,Information Media and Telecommunications,24,170,386,300,43
+MBH,Marlborough,Financial and Insurance Services,270,200,386,300,43
+MBH,Marlborough,"Rental, Hiring and Real Estate Services",1320,350,386,300,43
+MBH,Marlborough,"Professional, Scientific and Technical Services",381,670,386,300,43
+MBH,Marlborough,Administrative and Support Services,162,920,386,300,43
+MBH,Marlborough,Public Administration and Safety,42,1200,386,300,43
+MBH,Marlborough,Education and Training,105,1170,386,300,43
+MBH,Marlborough,Health Care and Social Assistance,168,2040,386,300,43
+MBH,Marlborough,Arts and Recreation Services,93,280,386,300,43
+MBH,Marlborough,Other Services,243,670,386,300,43
+MWT,Manawatu-Whanganui,"Agriculture, Forestry and Fishing",6171,9160,208,224,223
+MWT,Manawatu-Whanganui,Mining,24,54,208,224,223
+MWT,Manawatu-Whanganui,Manufacturing,1029,10890,208,224,223
+MWT,Manawatu-Whanganui,"Electricity, Gas, Water and Waste Services",93,697,208,224,223
+MWT,Manawatu-Whanganui,Construction,2133,5950,208,224,223
+MWT,Manawatu-Whanganui,Wholesale Trade,762,4485,208,224,223
+MWT,Manawatu-Whanganui,Retail Trade,1578,10120,208,224,223
+MWT,Manawatu-Whanganui,Accommodation and Food Services,978,5970,208,224,223
+MWT,Manawatu-Whanganui,"Transport, Postal and Warehousing",729,3420,208,224,223
+MWT,Manawatu-Whanganui,Information Media and Telecommunications,120,745,208,224,223
+MWT,Manawatu-Whanganui,Financial and Insurance Services,1230,1285,208,224,223
+MWT,Manawatu-Whanganui,"Rental, Hiring and Real Estate Services",5085,1125,208,224,223
+MWT,Manawatu-Whanganui,"Professional, Scientific and Technical Services",1398,4130,208,224,223
+MWT,Manawatu-Whanganui,Administrative and Support Services,525,3158,208,224,223
+MWT,Manawatu-Whanganui,Public Administration and Safety,261,8490,208,224,223
+MWT,Manawatu-Whanganui,Education and Training,603,10340,208,224,223
+MWT,Manawatu-Whanganui,Health Care and Social Assistance,963,12430,208,224,223
+MWT,Manawatu-Whanganui,Arts and Recreation Services,486,1550,208,224,223
+MWT,Manawatu-Whanganui,Other Services,1224,3100,208,224,223
+NSN,Nelson,"Agriculture, Forestry and Fishing",240,950,460,338,46
+NSN,Nelson,Mining,3,,460,338,46
+NSN,Nelson,Manufacturing,348,2820,460,338,46
+NSN,Nelson,"Electricity, Gas, Water and Waste Services",24,70,460,338,46
+NSN,Nelson,Construction,636,1680,460,338,46
+NSN,Nelson,Wholesale Trade,246,1270,460,338,46
+NSN,Nelson,Retail Trade,438,2980,460,338,46
+NSN,Nelson,Accommodation and Food Services,285,1900,460,338,46
+NSN,Nelson,"Transport, Postal and Warehousing",183,1170,460,338,46
+NSN,Nelson,Information Media and Telecommunications,39,220,460,338,46
+NSN,Nelson,Financial and Insurance Services,393,370,460,338,46
+NSN,Nelson,"Rental, Hiring and Real Estate Services",1275,290,460,338,46
+NSN,Nelson,"Professional, Scientific and Technical Services",699,1650,460,338,46
+NSN,Nelson,Administrative and Support Services,198,1670,460,338,46
+NSN,Nelson,Public Administration and Safety,51,1010,460,338,46
+NSN,Nelson,Education and Training,132,2220,460,338,46
+NSN,Nelson,Health Care and Social Assistance,333,3970,460,338,46
+NSN,Nelson,Arts and Recreation Services,120,450,460,338,46
+NSN,Nelson,Other Services,321,1050,460,338,46
+NTL,Northland,"Agriculture, Forestry and Fishing",5367,4930,394,293,152
+NTL,Northland,Mining,36,185,394,293,152
+NTL,Northland,Manufacturing,750,5810,394,293,152
+NTL,Northland,"Electricity, Gas, Water and Waste Services",48,790,394,293,152
+NTL,Northland,Construction,2121,3690,394,293,152
+NTL,Northland,Wholesale Trade,453,1720,394,293,152
+NTL,Northland,Retail Trade,1122,6300,394,293,152
+NTL,Northland,Accommodation and Food Services,798,4030,394,293,152
+NTL,Northland,"Transport, Postal and Warehousing",591,2170,394,293,152
+NTL,Northland,Information Media and Telecommunications,96,420,394,293,152
+NTL,Northland,Financial and Insurance Services,978,820,394,293,152
+NTL,Northland,"Rental, Hiring and Real Estate Services",3615,900,394,293,152
+NTL,Northland,"Professional, Scientific and Technical Services",1155,2010,394,293,152
+NTL,Northland,Administrative and Support Services,456,2240,394,293,152
+NTL,Northland,Public Administration and Safety,177,2790,394,293,152
+NTL,Northland,Education and Training,459,5740,394,293,152
+NTL,Northland,Health Care and Social Assistance,726,8050,394,293,152
+NTL,Northland,Arts and Recreation Services,333,855,394,293,152
+NTL,Northland,Other Services,837,1870,394,293,152
+OTA,Otago,"Agriculture, Forestry and Fishing",4731,10210,405,318,204
+OTA,Otago,Mining,63,538,405,318,204
+OTA,Otago,Manufacturing,978,8360,405,318,204
+OTA,Otago,"Electricity, Gas, Water and Waste Services",96,725,405,318,204
+OTA,Otago,Construction,3018,8050,405,318,204
+OTA,Otago,Wholesale Trade,738,3390,405,318,204
+OTA,Otago,Retail Trade,1677,11140,405,318,204
+OTA,Otago,Accommodation and Food Services,1482,12420,405,318,204
+OTA,Otago,"Transport, Postal and Warehousing",840,3800,405,318,204
+OTA,Otago,Information Media and Telecommunications,252,1600,405,318,204
+OTA,Otago,Financial and Insurance Services,1926,1475,405,318,204
+OTA,Otago,"Rental, Hiring and Real Estate Services",5733,1605,405,318,204
+OTA,Otago,"Professional, Scientific and Technical Services",2022,5040,405,318,204
+OTA,Otago,Administrative and Support Services,813,4580,405,318,204
+OTA,Otago,Public Administration and Safety,237,4250,405,318,204
+OTA,Otago,Education and Training,486,10030,405,318,204
+OTA,Otago,Health Care and Social Assistance,1110,11410,405,318,204
+OTA,Otago,Arts and Recreation Services,711,3120,405,318,204
+OTA,Otago,Other Services,1116,3080,405,318,204
+STL,Southland,"Agriculture, Forestry and Fishing",4734,8310,211,223,93
+STL,Southland,Mining,21,110,211,223,93
+STL,Southland,Manufacturing,456,8400,211,223,93
+STL,Southland,"Electricity, Gas, Water and Waste Services",36,238,211,223,93
+STL,Southland,Construction,945,3210,211,223,93
+STL,Southland,Wholesale Trade,318,1700,211,223,93
+STL,Southland,Retail Trade,642,4800,211,223,93
+STL,Southland,Accommodation and Food Services,447,3140,211,223,93
+STL,Southland,"Transport, Postal and Warehousing",330,2520,211,223,93
+STL,Southland,Information Media and Telecommunications,48,460,211,223,93
+STL,Southland,Financial and Insurance Services,918,735,211,223,93
+STL,Southland,"Rental, Hiring and Real Estate Services",2808,540,211,223,93
+STL,Southland,"Professional, Scientific and Technical Services",459,1790,211,223,93
+STL,Southland,Administrative and Support Services,228,960,211,223,93
+STL,Southland,Public Administration and Safety,129,1590,211,223,93
+STL,Southland,Education and Training,228,3270,211,223,93
+STL,Southland,Health Care and Social Assistance,366,4540,211,223,93
+STL,Southland,Arts and Recreation Services,243,750,211,223,93
+STL,Southland,Other Services,576,1670,211,223,93
+TAS,Tasman,"Agriculture, Forestry and Fishing",1860,5250,456,357,47
+TAS,Tasman,Mining,15,30,456,357,47
+TAS,Tasman,Manufacturing,312,2330,456,357,47
+TAS,Tasman,"Electricity, Gas, Water and Waste Services",24,100,456,357,47
+TAS,Tasman,Construction,714,1190,456,357,47
+TAS,Tasman,Wholesale Trade,156,470,456,357,47
+TAS,Tasman,Retail Trade,333,2310,456,357,47
+TAS,Tasman,Accommodation and Food Services,306,1610,456,357,47
+TAS,Tasman,"Transport, Postal and Warehousing",186,760,456,357,47
+TAS,Tasman,Information Media and Telecommunications,27,210,456,357,47
+TAS,Tasman,Financial and Insurance Services,204,190,456,357,47
+TAS,Tasman,"Rental, Hiring and Real Estate Services",1203,280,456,357,47
+TAS,Tasman,"Professional, Scientific and Technical Services",462,890,456,357,47
+TAS,Tasman,Administrative and Support Services,177,630,456,357,47
+TAS,Tasman,Public Administration and Safety,33,300,456,357,47
+TAS,Tasman,Education and Training,111,1250,456,357,47
+TAS,Tasman,Health Care and Social Assistance,180,1190,456,357,47
+TAS,Tasman,Arts and Recreation Services,120,360,456,357,47
+TAS,Tasman,Other Services,231,510,456,357,47
+TKI,Taranaki,"Agriculture, Forestry and Fishing",4314,3960,265,277,110
+TKI,Taranaki,Mining,198,1160,265,277,110
+TKI,Taranaki,Manufacturing,579,8670,265,277,110
+TKI,Taranaki,"Electricity, Gas, Water and Waste Services",51,570,265,277,110
+TKI,Taranaki,Construction,1251,3960,265,277,110
+TKI,Taranaki,Wholesale Trade,378,1640,265,277,110
+TKI,Taranaki,Retail Trade,795,5010,265,277,110
+TKI,Taranaki,Accommodation and Food Services,450,3130,265,277,110
+TKI,Taranaki,"Transport, Postal and Warehousing",375,2490,265,277,110
+TKI,Taranaki,Information Media and Telecommunications,63,545,265,277,110
+TKI,Taranaki,Financial and Insurance Services,1071,825,265,277,110
+TKI,Taranaki,"Rental, Hiring and Real Estate Services",2781,715,265,277,110
+TKI,Taranaki,"Professional, Scientific and Technical Services",882,2490,265,277,110
+TKI,Taranaki,Administrative and Support Services,267,2160,265,277,110
+TKI,Taranaki,Public Administration and Safety,108,1580,265,277,110
+TKI,Taranaki,Education and Training,273,3800,265,277,110
+TKI,Taranaki,Health Care and Social Assistance,483,5650,265,277,110
+TKI,Taranaki,Arts and Recreation Services,237,820,265,277,110
+TKI,Taranaki,Other Services,645,1790,265,277,110
+WGN,Wellington,"Agriculture, Forestry and Fishing",2376,3270,355,331,610
+WGN,Wellington,Mining,90,340,355,331,610
+WGN,Wellington,Manufacturing,1731,13020,355,331,610
+WGN,Wellington,"Electricity, Gas, Water and Waste Services",165,1860,355,331,610
+WGN,Wellington,Construction,5400,12700,355,331,610
+WGN,Wellington,Wholesale Trade,1548,8160,355,331,610
+WGN,Wellington,Retail Trade,3348,21140,355,331,610
+WGN,Wellington,Accommodation and Food Services,2067,16880,355,331,610
+WGN,Wellington,"Transport, Postal and Warehousing",1848,7860,355,331,610
+WGN,Wellington,Information Media and Telecommunications,1197,5900,355,331,610
+WGN,Wellington,Financial and Insurance Services,3639,11807,355,331,610
+WGN,Wellington,"Rental, Hiring and Real Estate Services",10020,2645,355,331,610
+WGN,Wellington,"Professional, Scientific and Technical Services",10368,28800,355,331,610
+WGN,Wellington,Administrative and Support Services,2037,11805,355,331,610
+WGN,Wellington,Public Administration and Safety,510,33610,355,331,610
+WGN,Wellington,Education and Training,1206,21520,355,331,610
+WGN,Wellington,Health Care and Social Assistance,2337,25630,355,331,610
+WGN,Wellington,Arts and Recreation Services,1260,5845,355,331,610
+WGN,Wellington,Other Services,2739,8820,355,331,610
+WKO,Waikato,"Agriculture, Forestry and Fishing",12153,16970,349,279,400
+WKO,Waikato,Mining,99,1352,349,279,400
+WKO,Waikato,Manufacturing,2160,22140,349,279,400
+WKO,Waikato,"Electricity, Gas, Water and Waste Services",171,1940,349,279,400
+WKO,Waikato,Construction,4989,12110,349,279,400
+WKO,Waikato,Wholesale Trade,1479,7150,349,279,400
+WKO,Waikato,Retail Trade,3075,17800,349,279,400
+WKO,Waikato,Accommodation and Food Services,1905,12260,349,279,400
+WKO,Waikato,"Transport, Postal and Warehousing",1347,5060,349,279,400
+WKO,Waikato,Information Media and Telecommunications,252,1725,349,279,400
+WKO,Waikato,Financial and Insurance Services,2922,2440,349,279,400
+WKO,Waikato,"Rental, Hiring and Real Estate Services",10431,2295,349,279,400
+WKO,Waikato,"Professional, Scientific and Technical Services",3603,11250,349,279,400
+WKO,Waikato,Administrative and Support Services,1341,5678,349,279,400
+WKO,Waikato,Public Administration and Safety,357,8350,349,279,400
+WKO,Waikato,Education and Training,1038,16330,349,279,400
+WKO,Waikato,Health Care and Social Assistance,1872,19990,349,279,400
+WKO,Waikato,Arts and Recreation Services,1017,3910,349,279,400
+WKO,Waikato,Other Services,2154,5835,349,279,400
+WTC,West Coast,"Agriculture, Forestry and Fishing",993,1310,214,233,32
+WTC,West Coast,Mining,90,865,214,233,32
+WTC,West Coast,Manufacturing,177,1720,214,233,32
+WTC,West Coast,"Electricity, Gas, Water and Waste Services",18,,214,233,32
+WTC,West Coast,Construction,393,1510,214,233,32
+WTC,West Coast,Wholesale Trade,93,370,214,233,32
+WTC,West Coast,Retail Trade,258,1600,214,233,32
+WTC,West Coast,Accommodation and Food Services,315,1930,214,233,32
+WTC,West Coast,"Transport, Postal and Warehousing",135,680,214,233,32
+WTC,West Coast,Information Media and Telecommunications,18,205,214,233,32
+WTC,West Coast,Financial and Insurance Services,111,125,214,233,32
+WTC,West Coast,"Rental, Hiring and Real Estate Services",465,155,214,233,32
+WTC,West Coast,"Professional, Scientific and Technical Services",168,400,214,233,32
+WTC,West Coast,Administrative and Support Services,72,345,214,233,32
+WTC,West Coast,Public Administration and Safety,60,475,214,233,32
+WTC,West Coast,Education and Training,93,1020,214,233,32
+WTC,West Coast,Health Care and Social Assistance,120,1620,214,233,32
+WTC,West Coast,Arts and Recreation Services,78,400,214,233,32
+WTC,West Coast,Other Services,192,355,214,233,32
+ZZZ,Others,"Agriculture, Forestry and Fishing",96,70,,,
+ZZZ,Others,Mining,,,,,
+ZZZ,Others,Manufacturing,6,55,,,
+ZZZ,Others,"Electricity, Gas, Water and Waste Services",3,,,,
+ZZZ,Others,Construction,3,3,,,
+ZZZ,Others,Wholesale Trade,,,,,
+ZZZ,Others,Retail Trade,3,9,,,
+ZZZ,Others,Accommodation and Food Services,9,30,,,
+ZZZ,Others,"Transport, Postal and Warehousing",9,35,,,
+ZZZ,Others,Information Media and Telecommunications,0,0,,,
+ZZZ,Others,Financial and Insurance Services,6,,,,
+ZZZ,Others,"Rental, Hiring and Real Estate Services",24,,,,
+ZZZ,Others,"Professional, Scientific and Technical Services",,,,,
+ZZZ,Others,Administrative and Support Services,6,9,,,
+ZZZ,Others,Public Administration and Safety,6,20,,,
+ZZZ,Others,Education and Training,3,18,,,
+ZZZ,Others,Health Care and Social Assistance,3,,,,
+ZZZ,Others,Arts and Recreation Services,,,,,
+ZZZ,Others,Other Services,9,,,,
